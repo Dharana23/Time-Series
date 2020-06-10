@@ -1,2 +1,2 @@
 # Time-Series
-Time-series data analysis with numpy, pandas and statsmodels and time-series forecasting
+Time-Series analysis and forecasting using numpy, pandas and statsmodels
