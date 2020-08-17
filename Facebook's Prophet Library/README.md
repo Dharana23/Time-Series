@@ -1,1 +1,1 @@
-### Facebook's Prophet Library
+# Facebook's Prophet Library
